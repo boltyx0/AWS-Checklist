@@ -8,6 +8,8 @@ common misconfigurations, weak controls, and exposure risks.
 ## 📌 Quick Checklist
 
 ➡️ **[View the Quick Checklist](./checklist.md)**  
+➡️ **[View the Detailed Checklist](./detailed_checklist.md)**
+
 ---
 
 ## About This Repository
